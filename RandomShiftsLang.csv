@@ -1,0 +1,101 @@
+,ID,Language_1,Lexeme_1,Meaning_1,Direction,Language_2,Lexeme_2,Meaning_2
+1,shift0007,Irish Gaelic,iompaigh,"to turn, rotate (intr.)",→,Irish Gaelic,iompaigh,to become
+2,shift0008,Irish Gaelic,eolas,to know,→,Irish Gaelic,eolas,to know how
+3,shift0013,Irish Gaelic,comhair,"to calculate, count",→,Irish Gaelic,comhair,to take into account
+6,shift0035,Irish Gaelic,feic,to see/to look at,→,Irish Gaelic,feic,to have opinion
+8,shift0057,Bulgarian,хлапе,boy,←,Old Church Slavonic,хлапъ,"servant, slave"
+9,shift0066,Russian,galdet',"to clamor, to make a racket",→,Russian,galdet',"to say, to speak"
+10,shift0068,Latin,mane,morning,—,"French,Romanian,Aromanian,Catalan","demain,mâine,mãni, mãne,demà",tomorrow
+13,shift0084,Russian,грести,to dig,—,Russian,грести,to row (with oars)
+16,shift0132,Latin,Lunae dies,moon,→,Catalan, Dilluns,Monday
+19,shift0150,Ancient Greek,καθαρίζω,to clean,→,Ancient Greek,καθαρίζω,"to cure, treat (medically)"
+21,shift0242,Latin,"comprehendo, -ere",to grasp,—,French,comprendre,to understand
+22,shift0242,Old East Slavic,пояти (pojati),"to take, to get",→,Russian,понять (ponjat'),to understand 
+24,shift0259,Latin,serpens,crawling,→,French,serpent,snake
+28,shift0272,Old Japanese,boku,"servant, slave",→,Japanese,boku,"I, me (male)"
+39,shift0415,Latin,"capto, -āre",various meanings related to catching,→,Italian,cacciare,to hunt
+40,shift0415,Old East Slavic,ловити,"to hunt, catch",→,Old East Slavic,ловить,to catch
+41,shift0434,Medieval Latin,spatula,épaule humaine - man's shoulder,→,Spanish,espalda,back
+46,shift0560,Latin,"confundo, confundere","to mix, stir",→,French,confondre,to confuse (with)
+47,shift0575,Chadian Arabic,binēye (بنية),girl,←,Modern Written Arabic,bunayya (بُنَيَّة),little daughter
+50,shift0695,Old East Slavic,поразити,"to strike, hit",→,Russian,поражение,"to defeat, win"
+54,shift0779,Akkadian,bi/urku,knee,→,Tigrinya,bərək,community
+62,shift0848,Latin,ad noctem,at night,→,Portuguese,ontem,yesterday
+66,shift0878,Sabaic,ḳny,to acquire,→,Sabaic,ḳny,"livestock, cattle"
+69,shift0898,Latin,maxilla,jaw,,Italian,mascella,cheek
+72,shift0922,Ancient Greek,ἐξευρίσκω,"to find out, discover",→,Modern Greek,ξέρω,to know
+77,shift0970,Latin,"intendo, -ere",to strain,→,Medieval Latin,"intendo, intendere",to understand
+79,shift0980,Ancient Greek,τρέχω,to run,→,Modern Greek,τρέχω,"to run, to flow"
+80,shift0980,Old East Slavic,течи,to move fast,—,Russian,течь (teč'),to flow
+81,shift0981,Latin,"spero, -are",to hope,—,Spanish,esperar,to wait
+83,shift1005,Icelandic,höfuð,head,→,Icelandic,höfuð,chief
+84,shift1005,Latin,caput,head,→,French,chef,chief
+86,shift1011,Latin,"premo, -ere",to press,—,French,imprimer,to print
+87,shift1055,Latin,stagnum,an alloy of silver and lead,—,Late Latin,stannum,tin (n.)
+89,shift1064,Swedish,hane,rooster,→,Swedish,hane,cock (of a gun)
+94,shift1164,Chechen,q̇aḥēga,"towork, to toil",→,Chechen,q̇aḥēga,to suffer
+100,shift1167,French,craindre,to tremble,→,French,craindre,to be afraid
+104,shift1171,Romanian,inimă,"heart; (figurative, popular) soul",←,Latin,anima,soul
+107,shift1200,Old French,put,stench,→,French,putois,"polecat, ferret (Mustela putorius)"
+109,shift1246,Old Church Slavonic,быстръ,"quick, speedy",—,Bulgarian,bistăr,"clear, transparent"
+111,shift1293,French,coude,elbow,←,Latin,cubitus,reclined
+113,shift1294,Norwegian,meget,many,→,Norwegian,meget,very
+115,shift1367,Latin,debilis,"weak, feeble",→,French,débile,stupid
+117,shift1398,Latin,catarius,feline,→,French,cataire,Nepeta cataria
+118,shift1404,Russian,črevatyj,pregnant,—,Russian,črevatyj,pregnant with smth
+119,shift1405,Latin,"fascino, -are",to bewitch,→,French,fasciner,"to charm, to captivate"
+123,shift1496,Old French,"boiel, boel","bowels, intestine",←,Latin,botellus,a small sausage
+124,shift1585,English,Xerox,manufacturer's name,→,Russian,kseroks,photocopier
+129,shift1665,Latin,vivenda,food,→,French,viande,meat
+132,shift1697,Old Church Slavonic,хранити,"to guard, to protect",,Bulgarian,hrana,food
+133,shift1700,Latin,vita,жизнь,→,Romanian,vită,cattle (mostly cows)
+136,shift1816,Latin,"dependo, -ere",to hang,→,French,dépendre,to depend
+137,shift1843,Belarusan,вяселле (vjasjéllje),fun,→,Belarusan,вяселле (vjasjéllje),wedding
+141,shift1985,Latin,argentum,silver,→,Old Spanish,ariento,"a certain silver coin used in the kingdoms of Castile and León; (biblical) a piece of silver, a shekel"
+144,shift2108,Latin,electricus,amber,→,New Latin,electricus,electric
+145,shift2118,Icelandic,unna,to love,—,Icelandic,unna,"to permit, to provide, to let"
+149,shift2155,German,Hunne,Hun,→,German,Hüne,giant
+150,shift2155,Latin,latini,"residents of Latium, late romans",→,Bulgarian,latini,giants
+152,shift2155,Ukrainian,varjah,"Varangian, a person from the Scandinavian tribe",→,Ukrainian,"varjah, varjaha","husky, sturdy"
+157,shift2313,Latin,responsus,answer,→,French,responsable,responsible
+158,shift2357,Kazakh,ата (ata),father,→,Kazakh,ата (ata),grandfather
+161,shift2390,Phrygian,ῥομφαία,spear,→,Albanian,rruféja,lightning
+163,shift2395,Spanish,pelear,"to pull smn by the hair, to fight",→,Spanish,pelear,to fight
+171,shift2481,Old French,fort,strong,→,Old French,forteresce,fortress (building)
+174,shift2568,Polish,łono,"lap, knees, breast",←,Polish,łono,genitalia (obs.)
+176,shift2614,Old English,gemæne,"common, shared by several people",→,English,mean,bad
+178,shift2629,Irish Gaelic,mag,field,→,Irish Gaelic,amach,on the outside
+189,shift2704,Old English,spōn,"chip, splinter",→,Middle English,spone,spoon
+195,shift2753,Latin,capitalis,(relational) of the head,→,"Catalan,Romansh","capital,chapitala",capital city
+196,shift2772,Middle Persian (Pahlavi),mkwk' /makōg/,boat,→,Farsi,makōk (مکوک),shuttle (weaving instrument)
+198,shift2870,Latin,longus,long,→,French,loin,far
+199,shift2882,Latin,minuta,small (adj. fem.),→,Medieval Latin,minuta,minute
+202,shift2979,Sanskrit,álpa (अल्प),"little, small",→,Assamese,api (আপী),girl
+205,shift2991,Latin,largus,"1) Munificent, generous, bountiful, lavish; 2) Furnished liberally, plentiful, bounteous, unstinted, copious",→,Italian,largo,wide
+210,shift2997,Latin,gula,the throat with its passages,→,Romanian,gură,mouth
+212,shift3041,Old Udi,ajz,"world, region, (inhabited) lands,",→,Udi,aiz // ajiz,village
+213,shift3045,Latvian,debess,cloud,←,Latvian,debess,(archaic) sky
+219,shift3088,Latin,"neco, necare",to kill,→,"French,Romanian,Catalan,Italian,Spanish","noyer,îneca,negar,annegare,anegar","to sink, drown"
+225,shift3092,Latin,rostrum,beak,→,"Spanish,Galician",rostro,face
+227,shift3118,Old French,garir,to protect,→,French,guérir,to heal
+229,shift3210,Ancient Greek,μελᾰνείμων,black clad,→,Byzantine Greek,μελᾰνείμων,monk
+230,shift3231,Latin,fusus,spindle,→,French,fusain,spindle wood
+232,shift3242,French,col,neck,→,French,col,neck (of bottle etc.)
+234,shift3282,Latin,libra,weight unit,→,Italian,lira,money unit
+235,shift3306,Italian,pigliàre,"to grab, catch, take",←,Medieval Latin,"pilo, pilare",to plunder
+240,shift3496,Ancient Hebrew,חִיָּה ḥiyyā (pi'el-stem),"to let live, preserve alive",→,Ancient Hebrew,חִיָּה ḥiyyā (pi'el-stem),"to repaire, restore"
+243,shift3527,Macedonian,глава,head,→,Macedonian,глава,"top, upper part"
+246,shift3736,Sanskrit,mákara (मकर),monster (supernatural),→,Urdu,magar (مگر),crocodile
+251,shift3771,Latin,clueo,to hear / to listen,—,Latin,clueo,"to have a reputation, to pass for; to be reputed"
+256,shift3946,Russian,прапорщик,standart-bearer,→,Russian,прапорщик,military rank
+257,shift3962,Cornish,gwragh,old woman,→,Cornish,gwragh,witch
+259,shift4092,Brahui,*mun-,"front part, front",—,Brahui,muskōī,ancestor
+264,shift4200,Ancient Greek,κύριος,lord,→,Apulia-Calabrian Greek,ciuri,father
+266,shift4216,Gaulish,*sepanios,"to follow, go after smb.",→,Gothic,siponeis,to be adherent
+269,shift4228,Spanish,bruma,winter,→,Spanish,bruma,"haze, especially costal fog"
+271,shift4235,Tauro-Romaic (Mariupol Greek),педъы,son,←,Ancient Greek,παιδίον,child
+274,shift4372,Latin,ferrum,iron,→,Spanish,ferro,galleys anchor
+276,shift4557,Old Irish,"slicht, sliocht","footprint, track",→,Old Irish,sliocht,"семья, род, племя, отпрыск, потомок"
+278,shift4620,Old East Slavic,въникнути,to get into,→,Russian,вникнуть,to understand
+279,shift4646,Welsh,drych,to see/to look at,→,Welsh,drych,mirror
+281,shift4663,Latin,libet (impers.),to want,→,Medieval Latin,quodlibet,anything
