@@ -1,101 +1,101 @@
-,ID,Language_1,Lexeme_1,Meaning_1,Direction,Language_2,Lexeme_2,Meaning_2
-1,shift0007,Irish Gaelic,iompaigh,"to turn, rotate (intr.)",→,Irish Gaelic,iompaigh,to become
-2,shift0008,Irish Gaelic,eolas,to know,→,Irish Gaelic,eolas,to know how
-3,shift0013,Irish Gaelic,comhair,"to calculate, count",→,Irish Gaelic,comhair,to take into account
-6,shift0035,Irish Gaelic,feic,to see/to look at,→,Irish Gaelic,feic,to have opinion
-8,shift0057,Bulgarian,хлапе,boy,←,Old Church Slavonic,хлапъ,"servant, slave"
-9,shift0066,Russian,galdet',"to clamor, to make a racket",→,Russian,galdet',"to say, to speak"
-10,shift0068,Latin,mane,morning,—,"French,Romanian,Aromanian,Catalan","demain,mâine,mãni, mãne,demà",tomorrow
-13,shift0084,Russian,грести,to dig,—,Russian,грести,to row (with oars)
-16,shift0132,Latin,Lunae dies,moon,→,Catalan, Dilluns,Monday
-19,shift0150,Ancient Greek,καθαρίζω,to clean,→,Ancient Greek,καθαρίζω,"to cure, treat (medically)"
-21,shift0242,Latin,"comprehendo, -ere",to grasp,—,French,comprendre,to understand
-22,shift0242,Old East Slavic,пояти (pojati),"to take, to get",→,Russian,понять (ponjat'),to understand 
-24,shift0259,Latin,serpens,crawling,→,French,serpent,snake
-28,shift0272,Old Japanese,boku,"servant, slave",→,Japanese,boku,"I, me (male)"
-39,shift0415,Latin,"capto, -āre",various meanings related to catching,→,Italian,cacciare,to hunt
-40,shift0415,Old East Slavic,ловити,"to hunt, catch",→,Old East Slavic,ловить,to catch
-41,shift0434,Medieval Latin,spatula,épaule humaine - man's shoulder,→,Spanish,espalda,back
-46,shift0560,Latin,"confundo, confundere","to mix, stir",→,French,confondre,to confuse (with)
-47,shift0575,Chadian Arabic,binēye (بنية),girl,←,Modern Written Arabic,bunayya (بُنَيَّة),little daughter
-50,shift0695,Old East Slavic,поразити,"to strike, hit",→,Russian,поражение,"to defeat, win"
-54,shift0779,Akkadian,bi/urku,knee,→,Tigrinya,bərək,community
-62,shift0848,Latin,ad noctem,at night,→,Portuguese,ontem,yesterday
-66,shift0878,Sabaic,ḳny,to acquire,→,Sabaic,ḳny,"livestock, cattle"
-69,shift0898,Latin,maxilla,jaw,,Italian,mascella,cheek
-72,shift0922,Ancient Greek,ἐξευρίσκω,"to find out, discover",→,Modern Greek,ξέρω,to know
-77,shift0970,Latin,"intendo, -ere",to strain,→,Medieval Latin,"intendo, intendere",to understand
-79,shift0980,Ancient Greek,τρέχω,to run,→,Modern Greek,τρέχω,"to run, to flow"
-80,shift0980,Old East Slavic,течи,to move fast,—,Russian,течь (teč'),to flow
-81,shift0981,Latin,"spero, -are",to hope,—,Spanish,esperar,to wait
-83,shift1005,Icelandic,höfuð,head,→,Icelandic,höfuð,chief
-84,shift1005,Latin,caput,head,→,French,chef,chief
-86,shift1011,Latin,"premo, -ere",to press,—,French,imprimer,to print
-87,shift1055,Latin,stagnum,an alloy of silver and lead,—,Late Latin,stannum,tin (n.)
-89,shift1064,Swedish,hane,rooster,→,Swedish,hane,cock (of a gun)
-94,shift1164,Chechen,q̇aḥēga,"towork, to toil",→,Chechen,q̇aḥēga,to suffer
-100,shift1167,French,craindre,to tremble,→,French,craindre,to be afraid
-104,shift1171,Romanian,inimă,"heart; (figurative, popular) soul",←,Latin,anima,soul
-107,shift1200,Old French,put,stench,→,French,putois,"polecat, ferret (Mustela putorius)"
-109,shift1246,Old Church Slavonic,быстръ,"quick, speedy",—,Bulgarian,bistăr,"clear, transparent"
-111,shift1293,French,coude,elbow,←,Latin,cubitus,reclined
-113,shift1294,Norwegian,meget,many,→,Norwegian,meget,very
-115,shift1367,Latin,debilis,"weak, feeble",→,French,débile,stupid
-117,shift1398,Latin,catarius,feline,→,French,cataire,Nepeta cataria
-118,shift1404,Russian,črevatyj,pregnant,—,Russian,črevatyj,pregnant with smth
-119,shift1405,Latin,"fascino, -are",to bewitch,→,French,fasciner,"to charm, to captivate"
-123,shift1496,Old French,"boiel, boel","bowels, intestine",←,Latin,botellus,a small sausage
-124,shift1585,English,Xerox,manufacturer's name,→,Russian,kseroks,photocopier
-129,shift1665,Latin,vivenda,food,→,French,viande,meat
-132,shift1697,Old Church Slavonic,хранити,"to guard, to protect",,Bulgarian,hrana,food
-133,shift1700,Latin,vita,жизнь,→,Romanian,vită,cattle (mostly cows)
-136,shift1816,Latin,"dependo, -ere",to hang,→,French,dépendre,to depend
-137,shift1843,Belarusan,вяселле (vjasjéllje),fun,→,Belarusan,вяселле (vjasjéllje),wedding
-141,shift1985,Latin,argentum,silver,→,Old Spanish,ariento,"a certain silver coin used in the kingdoms of Castile and León; (biblical) a piece of silver, a shekel"
-144,shift2108,Latin,electricus,amber,→,New Latin,electricus,electric
-145,shift2118,Icelandic,unna,to love,—,Icelandic,unna,"to permit, to provide, to let"
-149,shift2155,German,Hunne,Hun,→,German,Hüne,giant
-150,shift2155,Latin,latini,"residents of Latium, late romans",→,Bulgarian,latini,giants
-152,shift2155,Ukrainian,varjah,"Varangian, a person from the Scandinavian tribe",→,Ukrainian,"varjah, varjaha","husky, sturdy"
-157,shift2313,Latin,responsus,answer,→,French,responsable,responsible
-158,shift2357,Kazakh,ата (ata),father,→,Kazakh,ата (ata),grandfather
-161,shift2390,Phrygian,ῥομφαία,spear,→,Albanian,rruféja,lightning
-163,shift2395,Spanish,pelear,"to pull smn by the hair, to fight",→,Spanish,pelear,to fight
-171,shift2481,Old French,fort,strong,→,Old French,forteresce,fortress (building)
-174,shift2568,Polish,łono,"lap, knees, breast",←,Polish,łono,genitalia (obs.)
-176,shift2614,Old English,gemæne,"common, shared by several people",→,English,mean,bad
-178,shift2629,Irish Gaelic,mag,field,→,Irish Gaelic,amach,on the outside
-189,shift2704,Old English,spōn,"chip, splinter",→,Middle English,spone,spoon
-195,shift2753,Latin,capitalis,(relational) of the head,→,"Catalan,Romansh","capital,chapitala",capital city
-196,shift2772,Middle Persian (Pahlavi),mkwk' /makōg/,boat,→,Farsi,makōk (مکوک),shuttle (weaving instrument)
-198,shift2870,Latin,longus,long,→,French,loin,far
-199,shift2882,Latin,minuta,small (adj. fem.),→,Medieval Latin,minuta,minute
-202,shift2979,Sanskrit,álpa (अल्प),"little, small",→,Assamese,api (আপী),girl
-205,shift2991,Latin,largus,"1) Munificent, generous, bountiful, lavish; 2) Furnished liberally, plentiful, bounteous, unstinted, copious",→,Italian,largo,wide
-210,shift2997,Latin,gula,the throat with its passages,→,Romanian,gură,mouth
-212,shift3041,Old Udi,ajz,"world, region, (inhabited) lands,",→,Udi,aiz // ajiz,village
-213,shift3045,Latvian,debess,cloud,←,Latvian,debess,(archaic) sky
-219,shift3088,Latin,"neco, necare",to kill,→,"French,Romanian,Catalan,Italian,Spanish","noyer,îneca,negar,annegare,anegar","to sink, drown"
-225,shift3092,Latin,rostrum,beak,→,"Spanish,Galician",rostro,face
-227,shift3118,Old French,garir,to protect,→,French,guérir,to heal
-229,shift3210,Ancient Greek,μελᾰνείμων,black clad,→,Byzantine Greek,μελᾰνείμων,monk
-230,shift3231,Latin,fusus,spindle,→,French,fusain,spindle wood
-232,shift3242,French,col,neck,→,French,col,neck (of bottle etc.)
-234,shift3282,Latin,libra,weight unit,→,Italian,lira,money unit
-235,shift3306,Italian,pigliàre,"to grab, catch, take",←,Medieval Latin,"pilo, pilare",to plunder
-240,shift3496,Ancient Hebrew,חִיָּה ḥiyyā (pi'el-stem),"to let live, preserve alive",→,Ancient Hebrew,חִיָּה ḥiyyā (pi'el-stem),"to repaire, restore"
-243,shift3527,Macedonian,глава,head,→,Macedonian,глава,"top, upper part"
-246,shift3736,Sanskrit,mákara (मकर),monster (supernatural),→,Urdu,magar (مگر),crocodile
-251,shift3771,Latin,clueo,to hear / to listen,—,Latin,clueo,"to have a reputation, to pass for; to be reputed"
-256,shift3946,Russian,прапорщик,standart-bearer,→,Russian,прапорщик,military rank
-257,shift3962,Cornish,gwragh,old woman,→,Cornish,gwragh,witch
-259,shift4092,Brahui,*mun-,"front part, front",—,Brahui,muskōī,ancestor
-264,shift4200,Ancient Greek,κύριος,lord,→,Apulia-Calabrian Greek,ciuri,father
-266,shift4216,Gaulish,*sepanios,"to follow, go after smb.",→,Gothic,siponeis,to be adherent
-269,shift4228,Spanish,bruma,winter,→,Spanish,bruma,"haze, especially costal fog"
-271,shift4235,Tauro-Romaic (Mariupol Greek),педъы,son,←,Ancient Greek,παιδίον,child
-274,shift4372,Latin,ferrum,iron,→,Spanish,ferro,galleys anchor
-276,shift4557,Old Irish,"slicht, sliocht","footprint, track",→,Old Irish,sliocht,"семья, род, племя, отпрыск, потомок"
-278,shift4620,Old East Slavic,въникнути,to get into,→,Russian,вникнуть,to understand
-279,shift4646,Welsh,drych,to see/to look at,→,Welsh,drych,mirror
-281,shift4663,Latin,libet (impers.),to want,→,Medieval Latin,quodlibet,anything
+,ID,Language_1,Lexemes_1,Meanings_1,Direction,Languages_2,Lexemes_2,Meanings_2
+0,shift0007,"Ancient Greek, Irish Gaelic","Ancient Greek: [μετατρέπω], Irish Gaelic: [iompaigh]","μετατρέπω: [to turn back], iompaigh: [to turn, rotate (intr.)]",→,"Ancient Greek: [Modern Greek], Irish Gaelic: [Irish Gaelic]","μετατρέπω: [μετατρέπω], iompaigh: [iompaigh]","μετατρέπω: [to transform], iompaigh: [to become]"
+3,shift0016,Irish Gaelic,Irish Gaelic: [milis],milis: [sweet (taste)],→,Irish Gaelic: [Irish Gaelic],milis: [milis],"milis: [dear, darling]"
+6,shift0057,Bulgarian,Bulgarian: [хлапе],хлапе: [boy],←,Bulgarian: [Old Church Slavonic],хлапе: [хлапъ],"хлапъ: [servant, slave]"
+7,shift0066,Russian,Russian: [galdet'],"galdet': [to clamor, to make a racket]",→,Russian: [Russian],galdet': [galdet'],"galdet': [to say, to speak]"
+16,shift0144,Irish Gaelic,Irish Gaelic: [ceangail],ceangail: [to be tied],→,Irish Gaelic: [Irish Gaelic],ceangail: [ceangail],ceangail: [to feel affection]
+19,shift0259,Latin,Latin: [serpens],serpens: [crawling],→,Latin: [French],serpens: [serpent],serpent: [snake]
+20,shift0261,Old Irish,Old Irish: [taide],taide: [thief],—,Old Irish: [Old Irish],taide: [taide],taide: [adulterer]
+21,shift0272,"Acehnese, Indonesian, Old Japanese, Vietnamese","Acehnese: [ulon], Indonesian: [sahaya], Old Japanese: [boku], Vietnamese: [tŏi, tố]","ulon: [slave], sahaya: [servant], boku: [servant, slave], tŏi, tố: [servant]",→,"Acehnese: [Acehnese], Indonesian: [Indonesian], Old Japanese: [Japanese], Vietnamese: [Vietnamese]","ulon: [ulon], sahaya: [saya], boku: [boku], tŏi, tố: [tŏi, tố]","ulon: [I, me], saya: [I, me], boku: [I, me (male)], tŏi, tố: [I, me]"
+23,shift0337,Old East Slavic,Old East Slavic: [поразити],"поразити: [to beat, hit]",→,Old East Slavic: [Russian],поразити: [поразить],поразить: [to astonish]
+24,shift0391,Old East Slavic,Old East Slavic: [добрыи],добрыи: [good],→,Old East Slavic: [Russian],добрыи: [добрый],"добрый: [kind, good-hearted]"
+26,shift0415,"Latin, Old East Slavic","Latin: [capto, -āre], Old East Slavic: [ловити]","capto, -āre: [various meanings related to catching], ловити: [to hunt, catch]",→,"Latin: [Italian], Old East Slavic: [Old East Slavic]","capto, -āre: [cacciare], ловити: [ловить]","cacciare: [to hunt], ловить: [to catch]"
+31,shift0557,Old Irish,Old Irish: [scel],scel: [history],→,Old Irish: [Old Irish],scel: [scel],"scel: [event, occurrence]"
+33,shift0575,Chadian Arabic,Chadian Arabic: [binēye (بنية)],binēye (بنية): [girl],←,Chadian Arabic: [Modern Written Arabic],binēye (بنية): [bunayya (بُنَيَّة)],bunayya (بُنَيَّة): [little daughter]
+34,shift0580,Russian,Russian: [ряшка / ряжка (rjaška / rjažka)],"ряшка / ряжка (rjaška / rjažka): [small tub, bucket]",—,Russian: [Russian],"ряшка / ряжка (rjaška / rjažka): [ряшка, ряха (rjaška, rjaha)]","ряшка, ряха (rjaška, rjaha): [face (substandard, contempt., vulg. )]"
+35,shift0622,Latin,Latin: [nova],nova: [new (feminine nominative/vocative singular)],→,"Latin: [Spanish,Portuguese]","nova: [novia,noiva]","novia,noiva: [bride]"
+36,shift0695,Old East Slavic,Old East Slavic: [поразити],"поразити: [to strike, hit]",→,Old East Slavic: [Russian],поразити: [поражение],"поражение: [to defeat, win]"
+38,shift0733,Middle English,Middle English: [wrong],"wrong: [curved, crooked, bent]",—,Middle English: [English],wrong: [wrong],wrong: [wrong]
+39,shift0743,Latin,"Latin: [pendo, -ere]","pendo, -ere: [to weight (objects)]",→,Latin: [French],"pendo, -ere: [penser]",penser: [to think]
+45,shift0837,Old East Slavic,Old East Slavic: [гость],"гость: [guest, stranger]",→,Old East Slavic: [Old East Slavic],гость: [гость],гость: [guest merchant]
+47,shift0848,Latin,Latin: [ad noctem],ad noctem: [at night],→,Latin: [Portuguese],ad noctem: [ontem],ontem: [yesterday]
+49,shift0878,"Classical Arabic, Old Sweden, Sabaic, Soqotri","Classical Arabic: [اقْتَنَى ˀiqtanā (VIII stem)], Old Sweden: [boskap], Sabaic: [ḳny], Soqotri: [ḳénho]","اقْتَنَى ˀiqtanā (VIII stem): [to possess], boskap: [household, household goods, property], ḳny: [to acquire], ḳénho: [property, possessions]",→,"Classical Arabic: [Classical Arabic], Old Sweden: [Swedish], Sabaic: [Sabaic], Soqotri: [Soqotri]","اقْتَنَى ˀiqtanā (VIII stem): [اقْتَنَى ˀiqtanā (VIII stem)], boskap: [boskap], ḳny: [ḳny], ḳénho: [ḳén(h)o]","اقْتَنَى ˀiqtanā (VIII stem): [to acquire cattle (camels)], boskap: [cattle], ḳny: [livestock, cattle], ḳén(h)o: [animals, cattle]"
+50,shift0898,"English, Latin","English: [cheek], Latin: [maxilla]","cheek: [cheek], maxilla: [jaw]",,"English: [Old English], Latin: [Italian]","cheek: [cēace], maxilla: [mascella]","cēace: [jaw], mascella: [cheek]"
+52,shift0911,Latin,Latin: [talpa],talpa: [mole (Talpa)],→,Latin: [Italian],talpa: [topo],"topo: [mouse, rat]"
+53,shift0922,Ancient Greek,Ancient Greek: [ἐξευρίσκω],"ἐξευρίσκω: [to find out, discover]",→,Ancient Greek: [Modern Greek],ἐξευρίσκω: [ξέρω],ξέρω: [to know]
+55,shift0942,Latin,Latin: [absurdus],"absurdus: [senseless, meaningless]",,Latin: [Spanish],absurdus: [zurdo],zurdo: [left (hand); awkward]
+59,shift0977,Latin,Latin: [testa],testa: [pot],→,Latin: [French],testa: [tête],tête: [head]
+64,shift1007,Anatolian Arabic,Anatolian Arabic: [nahār],nahār: [sun],←,Anatolian Arabic: [Anatolian Arabic],nahār: [nahār],nahār: [day]
+66,shift1055,"Latin, Old East Slavic","Latin: [stagnum], Old East Slavic: [олово (olovo)]","stagnum: [an alloy of silver and lead], олово (olovo): [lead]",—,"Latin: [Late Latin], Old East Slavic: [Old East Slavic]","stagnum: [stannum], олово (olovo): [олово (olovo)]","stannum: [tin (n.)], олово (olovo): [tin]"
+67,shift1064,Swedish,Swedish: [hane],hane: [rooster],→,Swedish: [Swedish],hane: [hane],hane: [cock (of a gun)]
+70,shift1152,Armenian,Armenian: [mard (մարդ)],mard (մարդ): [mortal],→,Armenian: [Armenian],mard (մարդ): [mard (մարդ)],mard (մարդ): [person]
+71,shift1163,Old French,Old French: [labourer],labourer: [to work],—,Old French: [French],labourer: [labourer],labourer: [to plough]
+72,shift1164,"Chechen, Classical Arabic, Ingush, Old French, Old Irish","Chechen: [q̇aḥēga], Classical Arabic: [عُنِىَ (pass. voice) ], Ingush: [q̇aḥega], Old French: [travail], Old Irish: [dúad]","q̇aḥēga: [towork, to toil], عُنِىَ (pass. voice) : [to work, to be occupied with sth. ], q̇aḥega: [to labour, to strive], travail: [suffering, torment], dúad: [suffering]",→,"Chechen: [Chechen], Classical Arabic: [Classical Arabic], Ingush: [Ingush], Old French: [French], Old Irish: [Irish Gaelic]","q̇aḥēga: [q̇aḥēga], عُنِىَ (pass. voice) : [عَانَى (III-stem)], q̇aḥega: [q̇aḥega], travail: [travail], dúad: [dúa]","q̇aḥēga: [to suffer], عَانَى (III-stem): [to endure, to suffer], q̇aḥega: [to suffer], travail: [work (n.)], dúa: [work]"
+73,shift1167,"Ancient Greek, French, Latin","Ancient Greek: [φρίσσω], French: [craindre], Latin: [tremo, -ere]","φρίσσω: [to tremble, to quiver, to shiver], craindre: [to tremble], tremo, -ere: [to tremble]",→,"Ancient Greek: [Modern Greek], French: [French], Latin: [French]","φρίσσω: [φρίσσω], craindre: [craindre], tremo, -ere: [craindre]","φρίσσω: [to be afraid], craindre: [to be afraid]"
+75,shift1171,Romanian,Romanian: [inimă],"inimă: [heart; (figurative, popular) soul]",←,Romanian: [Latin],inimă: [anima],anima: [soul]
+77,shift1186,Russian,Russian: [долгий (dolgij)],долгий (dolgij): [long (archaic)],—,Russian: [Russian],долгий (dolgij): [долгий (dolgij)],долгий (dolgij): [continued]
+79,shift1222,Old English,Old English: [fæst],"fæst: [firm, stable]",→,Old English: [English],fæst: [fast],"fast: [quick, fast]"
+81,shift1270,Ancient Greek,Ancient Greek: [ψυμίον],ψυμίον: [piece],→,Ancient Greek: [Modern Greek],ψυμίον: [ψυμί],ψυμί: [bread]
+82,shift1293,French,French: [coude],coude: [elbow],←,French: [Latin],coude: [cubitus],cubitus: [reclined]
+86,shift1377,Russian,Russian: [шибко],шибко: [quickly],→,Russian: [Russian],шибко: [шибко],"шибко: [very, too much]"
+93,shift1585,"English, French, Russian","English: [Xerox], French: [Nescafé], Russian: [Thermos]","Xerox: [manufacturer's name], Nescafé: [manufacturer, producer], Thermos: [manufacturer's name]",→,"English: [Russian], French: [Romanian], Russian: [Russian]","Xerox: [kseroks], Nescafé: [nescafe, nes], Thermos: [termos]","kseroks: [photocopier], nescafe, nes: [soluble coffee], termos: [thermos]"
+99,shift1700,Latin,Latin: [vita],vita: [жизнь],→,Latin: [Romanian],vita: [vită],vită: [cattle (mostly cows)]
+100,shift1722,French,French: [vif],vif: [alive],→,French: [French],vif: [vif],"vif: [active, quick]"
+103,shift1843,"Belarusan, Ukrainian","Belarusan: [вяселле (vjasjéllje)], Ukrainian: [весiлля (vesíllja)]","вяселле (vjasjéllje): [fun], весiлля (vesíllja): [fun, gaiety]",→,"Belarusan: [Belarusan], Ukrainian: [Ukrainian]","вяселле (vjasjéllje): [вяселле (vjasjéllje)], весiлля (vesíllja): [весiлля (vesíllja)]","вяселле (vjasjéllje): [wedding], весiлля (vesíllja): [wedding]"
+104,shift1883,Classical Arabic,Classical Arabic: [نَقَبَ naqaba],"نَقَبَ naqaba: [to pierce, to bore]",→,Classical Arabic: [Ancient Hebrew],نَقَبَ naqaba: [nəḳēbā ],"nəḳēbā : [woman, female (""perforata"")]"
+107,shift2108,"Ancient Hebrew, Latin","Ancient Hebrew: [khašmál], Latin: [electricus]","khašmál: [electrum, amber], electricus: [amber]",→,"Ancient Hebrew: [Modern Hebrew], Latin: [New Latin]","khašmál: [khašmál], electricus: [electricus]","khašmál: [electricity], electricus: [electric]"
+108,shift2118,Icelandic,Icelandic: [unna],unna: [to love],—,Icelandic: [Icelandic],unna: [unna],"unna: [to permit, to provide, to let]"
+109,shift2154,Faroese,Faroese: [epli],epli: [apple],→,Faroese: [Faroese],epli: [epli],epli: [potato]
+110,shift2155,"Ancient Greek, French, German, Latin, Old Persian, Ukrainian","Ancient Greek: [ἕλληνες], French: [hongre], German: [Hunne], Latin: [latini], Old Persian: [parthavan], Ukrainian: [varjah]","ἕλληνες: [the Greeks], hongre: [a Hungarian man], Hunne: [Hun], latini: [residents of Latium, late romans], parthavan: [Parthian], varjah: [Varangian, a person from the Scandinavian tribe]",→,"Ancient Greek: [Bulgarian], French: [French], German: [German], Latin: [Bulgarian], Old Persian: [Farsi], Ukrainian: [Ukrainian]","ἕλληνες: [elini], hongre: [ogre], Hunne: [Hüne], latini: [latini], parthavan: [pählivân], varjah: [varjah, varjaha]","elini: [giants], ogre: [orc], Hüne: [giant], latini: [giants], pählivân: [hero, athlete], varjah, varjaha: [husky, sturdy]"
+111,shift2187,Old High German,Old High German: [treffan],"treffan: [strike, hit]",→,Old High German: [German],treffan: [treffen],treffen: [meet]
+112,shift2191,Swedish,Swedish: [rolig],rolig: [calm],→,Swedish: [Swedish],rolig: [rolig],rolig: [funny]
+115,shift2313,Latin,Latin: [responsus],responsus: [answer],→,Latin: [French],responsus: [responsable],responsable: [responsible]
+118,shift2382,Thai,Thai: [bpʉʉn (ปืน)],"bpʉʉn (ปืน): [(archaic) weapon from which arrows or the like are shot, as bow, crossbow, blowgun, etc.]",→,Thai: [Thai],bpʉʉn (ปืน): [bpʉʉn (ปืน)],bpʉʉn (ปืน): [gun]
+121,shift2395,Spanish,Spanish: [pelear],"pelear: [to pull smn by the hair, to fight]",→,Spanish: [Spanish],pelear: [pelear],pelear: [to fight]
+122,shift2397,Latin,"Latin: [saluto, -are]","saluto, -are: [to greet]",→,Latin: [Romanian],"saluto, -are: [a săruta]",a săruta: [to kiss]
+123,shift2404,Welsh,Welsh: [cynhaeaf],cynhaeaf: [autumn],→,Welsh: [Welsh],cynhaeaf: [cynhaeaf],cynhaeaf: [harvest]
+126,shift2424,Old English,Old English: [furh],furh: [pine tree],→,Old English: [Middle English],furh: [fyrre],fyrre: [fir tree]
+128,shift2481,Old French,Old French: [fort],fort: [strong],→,Old French: [Old French],fort: [forteresce],forteresce: [fortress (building)]
+129,shift2519,Russian,Russian: [dom],dom: [house],→,Russian: [Russian],dom: [dom],dom: [tomb]
+130,shift2541,Old East Slavic,Old East Slavic: [великыи],"великыи: [big, large]",→,Old East Slavic: [Russian],великыи: [великий],великий: [great]
+135,shift2629,Irish Gaelic,Irish Gaelic: [mag],mag: [field],→,Irish Gaelic: [Irish Gaelic],mag: [amach],amach: [on the outside]
+138,shift2651,Old East Slavic,Old East Slavic: [алкати],"алкати: [to starve, to famish]",→,Old East Slavic: [Russian],алкати: [alkat'],alkat': [to desire]
+139,shift2654,Old English,Old English: [steorfan],steorfan: [die],→,Old English: [English],steorfan: [starve],starve: [to starve]
+140,shift2672,Ancient Greek,Ancient Greek: [βοτάνη],βοτάνη: [plant],→,Ancient Greek: [Byzantine Greek],βοτάνη: [βοτάνη],βοτάνη: [gunpowder]
+141,shift2683,German,German: [hell],"hell: [light, clear]",←,German: [Middle High German],hell: [hel],hel: [loud]
+142,shift2685,Latin,Latin: [socius],"socius: [fellow, sharer, partner, comrade, companion; partner in business; ally]",→,Latin: [Romanian],socius: [soț],soț: [husband]
+143,shift2697,Finnish,"Finnish: [haastaa], Finnish: [puhua]","haastaa: [to breath, to sigh], puhua: [to blow]",→,Finnish: [Finnish],"haastaa: [haastaa], puhua: [puhua]","haastaa: [to say, to speak], puhua: [to say, to speak]"
+146,shift2706,Latin,Latin: [allevatum],allevatum: [risen],→,Latin: [Romanian],allevatum: [aluat],aluat: [dough]
+147,shift2708,Ancient Greek,Ancient Greek: [τράπεζα],τράπεζα: [table],→,Ancient Greek: [Modern Greek],τράπεζα: [τράπεζα],τράπεζα: [bank]
+148,shift2715,Akkadian,Akkadian: [ṣēru ],ṣēru : [back (body part)],—,Akkadian: [Akkadian],ṣēru : [ṣēru ],ṣēru : [surface]
+149,shift2720,Old East Slavic,Old East Slavic: [волухъ],волухъ: [bull shepherd],→,Old East Slavic: [Russian],волухъ: [олух (oluh)],"олух (oluh): [(derogatory) blockhead, stupid person]"
+150,shift2739,Old English,Old English: [clúd],"clúd: [a mass of rock, hill]",→,Old English: [English],clúd: [cloud],cloud: [cloud]
+151,shift2753,Latin,Latin: [capitalis],capitalis: [(relational) of the head],→,"Latin: [Catalan,Romansh]","capitalis: [capital,chapitala]","capital,chapitala: [capital city]"
+159,shift2988,Latin,Latin: [dominus],"dominus: [the master of a household, estate, or other property, owner, proprietor]",→,Latin: [Italian],dominus: [donna],donna: [woman]
+160,shift2990,Latin,Latin: [largus],"largus: [1) Munificent, generous, bountiful, lavish; 2) Furnished liberally, plentiful, bounteous, unstinted, copious]",→,Latin: [Spanish],largus: [largo],largo: [long]
+163,shift2995,Latin,Latin: [fustis],"fustis: [a stick, rod]",→,Latin: [French],fustis: [fût],fût: [Tronc d'arbre dans sa partie droite et dépourvue de branches]
+165,shift2997,Latin,Latin: [gula],gula: [the throat with its passages],→,Latin: [Romanian],gula: [gură],gură: [mouth]
+167,shift3041,Old Udi,Old Udi: [ajz],"ajz: [world, region, (inhabited) lands,]",→,Old Udi: [Udi],ajz: [aiz // ajiz],aiz // ajiz: [village]
+169,shift3063,Old Norse,Old Norse: [æla],"æla: [to pour, to flow quickly]",→,Old Norse: [Icelandic],æla: [æla],æla: [to vomit]
+171,shift3065,Ancient Greek,Ancient Greek: [γαμέω],"γαμέω: [marry, i.e. take to wife, of the man]",→,Ancient Greek: [Modern Greek],γαμέω: [γαμώ],"γαμώ: [(colloquial, vulgar) to fuck]"
+172,shift3084,Latin,Latin: [tempestas],tempestas: [weather],→,Latin: [Italian],tempestas: [tempesta],tempesta: [storm]
+174,shift3088,Latin,"Latin: [neco, necare]","neco, necare: [to kill]",→,"Latin: [French,Romanian,Catalan,Italian,Spanish]","neco, necare: [noyer,îneca,negar,annegare,anegar]","noyer,îneca,negar,annegare,anegar: [to sink, drown]"
+176,shift3090,Latin,Latin: [paludem],"paludem: [swamp, marsh]",→,Latin: [Romanian],paludem: [pădure],pădure: [forest]
+181,shift3140,Latin,Latin: [amarus],amarus: [bitter],→,Latin: [Spanish],amarus: [amarillo],amarillo: [yellow]
+182,shift3210,Ancient Greek,Ancient Greek: [μελᾰνείμων],μελᾰνείμων: [black clad],→,Ancient Greek: [Byzantine Greek],μελᾰνείμων: [μελᾰνείμων],μελᾰνείμων: [monk]
+184,shift3241,Hungarian,Hungarian: [franc],franc: [French],→,Hungarian: [Hungarian],franc: [franc],franc: [syphilis]
+186,shift3251,Russian,Russian: [понедельник],понедельник: [the day after Sunday],→,Russian: [Russian],понедельник: [неделя],неделя: [week]
+193,shift3501,Polish,Polish: [rzecz],"rzecz: [speech, conversation]",→,Polish: [Polish],rzecz: [rzecz],rzecz: [thing]
+194,shift3508,Old English,Old English: [wanten],wanten: [to be necessary],→,Old English: [English],wanten: [want],want: [to wish for or desire (something)]
+195,shift3527,Macedonian,Macedonian: [глава],глава: [head],→,Macedonian: [Macedonian],глава: [глава],"глава: [top, upper part]"
+200,shift3771,Latin,Latin: [clueo],clueo: [to hear / to listen],—,Latin: [Latin],clueo: [clueo],"clueo: [to have a reputation, to pass for; to be reputed]"
+202,shift3857,Russian,Russian: [напрасный],напрасный: [sudden],→,Russian: [Russian],напрасный: [напрасный],напрасный: [vain]
+204,shift3946,"German, Russian","German: [Fähnrich], Russian: [прапорщик]","Fähnrich: [standart-bearer], прапорщик: [standart-bearer]",→,"German: [German], Russian: [Russian]","Fähnrich: [Fähnrich], прапорщик: [прапорщик]","Fähnrich: [a military rank of the Bundeswehr, Austrian Armed Forces and former German armed forces], прапорщик: [military rank]"
+205,shift3962,Cornish,Cornish: [gwragh],gwragh: [old woman],→,Cornish: [Cornish],gwragh: [gwragh],gwragh: [witch]
+210,shift4122,Ancient Greek,Ancient Greek: [κίτρινος],κίτρινος: [of the citron tree],→,Ancient Greek: [Modern Greek],κίτρινος: [κίτρινος],κίτρινος: [yellow]
+213,shift4204,Ancient Hebrew,Ancient Hebrew: [ḥōṣän],"ḥōṣän: [fold of garment, bosom]",—,Ancient Hebrew: [Akkadian],ḥōṣän: [ḫiṣnu],ḫiṣnu: [protection]
+214,shift4216,Gaulish,Gaulish: [*sepanios],"*sepanios: [to follow, go after smb.]",→,Gaulish: [Gothic],*sepanios: [siponeis],siponeis: [to be adherent]
+215,shift4228,"Italian, Latin, Spanish","Italian: [bruma], Latin: [bruma], Spanish: [bruma]",bruma: [winter],→,"Italian: [Italian], Latin: [Catalan,French], Spanish: [Spanish]","bruma: [bruma], bruma: [broma,brume]","bruma: [mist, fog], broma,brume: [mist, fog], bruma: [haze, especially costal fog]"
+217,shift4235,Tauro-Romaic (Mariupol Greek),Tauro-Romaic (Mariupol Greek): [педъы],педъы: [son],←,Tauro-Romaic (Mariupol Greek): [Ancient Greek],педъы: [παιδίον],παιδίον: [child]
+218,shift4245,Tzotzil,Tzotzil: [7isak’],7isak’: [sweet potato (Ipomoea batatas)],→,Tzotzil: [Tzotzil],7isak’: [7isak’],7isak’: [potato]
+219,shift4247,Finnish,Finnish: [peruna],peruna: [pear],→,Finnish: [Finnish],peruna: [peruna],peruna: [potato]

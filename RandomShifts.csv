@@ -1,101 +1,101 @@
 ,ID,Meaning_1,Direction,Meaning_2
-5,shift0035,"to stare, to gaze",,to consider
-7,shift0048,"air, breeze",—,"(Rumantsch Grischun, Sursilvan) weather"
-11,shift0072,flower,→,colour
-15,shift0102,"to purify, to make white",→,silver
-17,shift0140,"to steal, to carry away, to deprive of smth by force",—,"to delight, to charm"
-23,shift0242,to catch ,→,"to capture, understand"
-26,shift0272,slave,→,"I, me"
-27,shift0272,servant,→,"I, me"
-30,shift0273,"lord, master",→,you
-31,shift0273,king,→,you
-32,shift0273,"lord, emperor",→,you
-33,shift0273,"prince, lord",→,you
-34,shift0273,"master, owner",→,you
-35,shift0337,"to beat, hit",→,to astonish
-38,shift0392,good,↔,"beauty, ability; beautiful."
-48,shift0580,"small tub, bucket",—,"face (substandard, contempt., vulg. )"
-55,shift0779,thigh; the smallest subdivision of a tribe,→,people
-58,shift0822,"little worm (→  the scarlet worm, Vulg. Exod. 35, 25; cf. Hier. Ep. 64, 19)",→,bright red; vermilion
-59,shift0824,saffron (Crocus sativus),→,yellow
-60,shift0837,"guest, stranger",→,guest merchant
-64,shift0878,to possess,→,to acquire cattle (camels)
-67,shift0878,"property, possessions",—,"animals, cattle"
-68,shift0898,cheek,,jaw
-71,shift0911,mole (Talpa),→,"mouse, rat"
-74,shift0942,"senseless, meaningless",,left (hand); awkward
-75,shift0943,"to catch, to seize",→,to buy
-76,shift0964,to possess,→,"to be, exist"
-85,shift1007,sun,←,day
-88,shift1055,lead,→,tin
-90,shift1089,to want,←,"to ask, inquire"
-92,shift1152,mortal,→,person
-93,shift1163,to work,—,to plough
-96,shift1164,"to labour, to strive",→,to suffer
-97,shift1164,"suffering, torment",—,work (n.)
-98,shift1164,suffering,→,work
-105,shift1174,to be surprised,→,to look
-106,shift1186,long (archaic),—,continued
-110,shift1270,piece,→,bread
-112,shift1294,many,→,very
-121,shift1411,"low, close to the ground",→,humble
-126,shift1585,manufacturer's name,→,thermos
-128,shift1647,breathing,—,soul
-130,shift1665,"food, nourishment",→,meat
-138,shift1843,"fun, gaiety",→,wedding
-139,shift1883,"to pierce, to bore",→,"woman, female (""perforata"")"
-143,shift2108,"electrum, amber",→,electricity
-146,shift2154,apple,→,potato
-147,shift2155,the Greeks,→,giants
-148,shift2155,a Hungarian man,→,orc
-151,shift2155,Parthian,→,"hero, athlete"
-153,shift2187,"strike, hit",→,meet
-154,shift2191,calm,→,funny
-155,shift2203,camp,—,"military force, troops, army"
-156,shift2262,metal,→,money
-159,shift2379,arrow,→,bullet
-160,shift2382,"(archaic) weapon from which arrows or the like are shot, as bow, crossbow, blowgun, etc.",→,gun
-162,shift2393,to strike,→,battle
-167,shift2405,(popular/folk) August,←,harvest
-172,shift2519,house,→,tomb
-175,shift2592,army,←,military campaign
-177,shift2615,to be brilliant,→,"pure, clean"
-181,shift2651,"to starve, to famish",→,to desire
-182,shift2654,die,→,to starve
-184,shift2683,"light, clear",←,loud
-185,shift2685,"fellow, sharer, partner, comrade, companion; partner in business; ally",→,husband
-186,shift2697,"to breath, to sigh",→,"to say, to speak"
-187,shift2697,to blow,→,"to say, to speak"
-188,shift2699,dark (adj.),←,blind
-190,shift2706,risen,→,dough
-191,shift2708,table,→,bank
-201,shift2971,"thorn, spine",→,wild rosebush
-203,shift2988,"the master of a household, estate, or other property, owner, proprietor",→,woman
-208,shift2995,"a stick, rod",→,Tronc d'arbre dans sa partie droite et dépourvue de branches
-211,shift2998,handle,→,wing
-214,shift3063,"to pour, to flow quickly",→,to vomit
-215,shift3064,(dated outside Canada) to kiss ,→,"(vulgar slang, transitive, intransitive) to fuck"
-217,shift3084,weather,→,storm
-218,shift3085,weather,←,good weather
-220,shift3089,(archaic) late spring and early summer,→,summer
-222,shift3089,spring (season),→,summer
-224,shift3091,"look, gaze",→,face
-226,shift3095,to be hot,→,necessary
-231,shift3241,French,→,syphilis
-237,shift3406,knowledge,→,joke
-238,shift3484,"to divide up the food and give one his allotted portion, e.g. steward in a monastery, to apportion",→,"to analyze (a matter, a text), to treat (discuss)ö to clarify, explain, to describe"
-239,shift3484,to divide into several parts,→,to analyse
-241,shift3501,"speech, conversation",→,thing
-242,shift3508,to be necessary,→,to wish for or desire (something)
-244,shift3588,"grace, favour; benefit, gift, something given freely",→,talent
-248,shift3745,eyelid,—,eyelash
-254,shift3906,little girl,—,pupil (of an eye)
-258,shift3963,"a kind of owl, regarded as a bird of ill omen, sometimes as a vampire or evil spirit",→,witch
-260,shift4100,fish,→,animals
-261,shift4120,turmeric (Curcuma),→,(krama) yellow
-265,shift4204,"fold of garment, bosom",—,protection
-267,shift4228,winter,→,"mist, fog"
-272,shift4245,sweet potato (Ipomoea batatas),→,potato
-273,shift4247,pear,→,potato
-280,shift4647,"female owner, mistress",→,wife
-282,shift4720,sleeping,→,dense (forest)
+1,shift0008,to know,→,to know how
+2,shift0013,"to calculate, count",→,to take into account
+4,shift0035,"to stare, to gaze,to see/to look at",→,"to consider,to have opinion"
+5,shift0048,"air, breeze",—,"(Rumantsch Grischun, Sursilvan) weather"
+8,shift0068,morning,—,tomorrow
+9,shift0072,flower,→,colour
+10,shift0073,(dated) sweet (taste),→,fresh (of water)
+11,shift0084,to dig,—,to row (with oars)
+13,shift0102,"to purify, to make white",→,silver
+14,shift0132,moon,→,Monday
+15,shift0140,"to steal, to carry away, to deprive of smth by force",—,"to delight, to charm"
+17,shift0150,to clean,→,"to cure, treat (medically)"
+22,shift0273,"lord, master,king,lord, emperor,prince, lord,master, owner",→,you
+25,shift0392,"beautiful, decorated,good",→,"good,beauty, ability; beautiful."
+29,shift0446,eyelid,—,eyebrow
+30,shift0497,"top, mountain",,nose
+32,shift0560,"to mix, stir",→,to confuse (with)
+37,shift0732,the wheel of a vehicle,→,knee
+40,shift0779,"knee,thigh; the smallest subdivision of a tribe",→,"community,people"
+41,shift0782,"brightly shining, sparkling, flashing, glowing",→,"sagacious, smart, shrewd, clever, bright, intelligent"
+42,shift0796,to carry,—,pregnant
+43,shift0822,"little worm (→  the scarlet worm, Vulg. Exod. 35, 25; cf. Hier. Ep. 64, 19)",→,bright red; vermilion
+46,shift0845,fight,→,to quarell
+48,shift0849,heavy (of weight),→,important
+51,shift0905,"mraningless, absurd",,left (hand); awkward
+54,shift0940,raw,→,"severe, harsh"
+57,shift0964,to possess,→,"to be, exist"
+58,shift0970,to strain,→,to understand
+60,shift0980,"to run,to move fast",→,"to run, to flow,to flow"
+62,shift0983,"to delay, to linger",—,"to live, to dwell"
+68,shift1089,to want,←,"to ask, inquire"
+74,shift1170,"bearded,bearded man",→,"man,man (male)"
+76,shift1174,to be surprised,→,to look
+78,shift1200,stench,→,"polecat, ferret (Mustela putorius)"
+80,shift1246,"quick, speedy",—,"clear, transparent"
+83,shift1294,many,→,very
+84,shift1315,head,→,mind (n.)
+87,shift1398,feline,→,Nepeta cataria
+88,shift1404,pregnant,—,pregnant with smth
+89,shift1405,"to bewitch,to practise witchcraft",→,"to charm, to captivate,to fascinate"
+92,shift1496,"bowels, intestine",←,a small sausage
+94,shift1632,to flow,←,to run
+96,shift1665,"food,food, nourishment",→,meat
+97,shift1690,"to grasp, to catch",—,"to light (fire), to switch on light"
+98,shift1697,"to guard, to protect",,food
+101,shift1766,to catch up with,—,to understand
+105,shift1985,silver,—,"money,a certain silver coin used in the kingdoms of Castile and León; (biblical) a piece of silver, a shekel"
+106,shift2086,"master, owner",→,husband
+113,shift2203,camp,—,"military force, troops, army"
+114,shift2262,metal,→,money
+116,shift2357,father,→,grandfather
+120,shift2393,to strike,→,battle
+127,shift2478,cheek,→,shield
+131,shift2568,"lap, knees, breast",←,genitalia (obs.)
+133,shift2614,"common, shared by several people",→,bad
+134,shift2615,to be brilliant,→,"pure, clean"
+136,shift2646,unwrap,→,to develop
+145,shift2704,"chip, splinter",→,spoon
+152,shift2772,boat,→,shuttle (weaving instrument)
+154,shift2870,long,→,far
+155,shift2882,small (adj. fem.),→,minute
+156,shift2926,(arch.) an unmarried girl or woman,→,a female servant
+157,shift2971,"thorn, spine",→,wild rosebush
+161,shift2991,"1) Munificent, generous, bountiful, lavish; 2) Furnished liberally, plentiful, bounteous, unstinted, copious,abundant, plentiful, copious",→,"wide,wide, broad"
+162,shift2994,a tree,→,"a long heavy piece of wood or metal used in building houses, bridges etc"
+164,shift2996,"work, labour, toil",→,"grain, seed"
+166,shift2998,handle,→,wing
+168,shift3045,cloud,←,(archaic) sky
+173,shift3085,weather,←,good weather
+175,shift3089,"(archaic) late spring and early summer,spring,spring (season)",→,summer
+177,shift3091,"look, gaze",→,face
+178,shift3092,beak,→,face
+179,shift3095,to be hot,→,necessary
+183,shift3231,spindle,→,spindle wood
+185,shift3242,neck,→,neck (of bottle etc.)
+187,shift3282,weight unit,→,money unit
+188,shift3306,"to grab, catch, take",←,to plunder
+189,shift3376,"Of living beings: Of great strength or power; strong, stout, mighty",→,"Of great size, bulk, or extent; large"
+190,shift3406,knowledge,→,joke
+191,shift3484,"to divide up the food and give one his allotted portion, e.g. steward in a monastery, to apportion,to divide into several parts",→,"to analyze (a matter, a text), to treat (discuss)ö to clarify, explain, to describe,to analyse"
+196,shift3588,"grace, favour; benefit, gift, something given freely",→,talent
+197,shift3736,"makara,monster (supernatural)",→,crocodile
+198,shift3745,eyelid,—,eyelash
+199,shift3747,rib,—,(pl.) back (body part)
+201,shift3855,stranger,→,to deprive
+203,shift3906,little girl,—,pupil (of an eye)
+206,shift3963,"a kind of owl, regarded as a bird of ill omen, sometimes as a vampire or evil spirit",→,witch
+207,shift4092,"front part, front",—,ancestor
+209,shift4120,turmeric (Curcuma),→,(krama) yellow
+211,shift4197,turnip (Brassica rapa var. rapa),→,tail
+212,shift4200,lord,→,father
+216,shift4229,"winter solstice, (by extension) winter",→,hoar-frost
+220,shift4372,iron,→,galleys anchor
+221,shift4441,"dart, arrow",→,shuttle
+222,shift4557,"footprint, track",→,"семья, род, племя, отпрыск, потомок"
+223,shift4596,lentil,→,lens
+226,shift4647,"female owner, mistress",→,wife
+227,shift4663,to want,→,anything
+228,shift4720,sleeping,→,dense (forest)
+229,shift4808,to marry,→,husband
